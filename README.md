@@ -1,4 +1,4 @@
-# 🃏 Super Trunfo Internacional em C
+# Desafio Super Trunfo - Países - Comparação das Cartas
 
 Este projeto é uma versão simples e divertida do jogo **Super Trunfo**, implementado em linguagem C. O jogo compara automaticamente dois países com base em seus atributos e decide quem vence, seguindo regras personalizadas para cada atributo.
 
